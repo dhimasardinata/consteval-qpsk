@@ -1,0 +1,8 @@
+[package]
+name = "consteval-qpsk"
+version = "0.1.0"
+edition = "c++26"
+
+[build]
+compiler = "g++"
+encoding = "utf-8"
